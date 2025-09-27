@@ -1,0 +1,1 @@
+In this project done through the curriculum of the open source "the-odin-project" foundation module I aim to utilize all that I have learnt about HTML by making a recipe, It will most definetly not be pretty; it may even turn out to be the bane to a web-developer but even so long as I learn as much as I am hoping to learn through this project I will be content with that bane.
